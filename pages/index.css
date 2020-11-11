@@ -1,2 +1,14 @@
 @import url('../vendor/normalize.css');
 @import url('../blocks/page/page.css');
+@import url('../blocks/hero/hero.css');
+@import url('../blocks/hero/__header/hero__header.css');
+@import url('../blocks/hero/__logo/hero__logo.css');
+@import url('../blocks/hero/__social-links/hero__social-links.css');
+@import url('../blocks/hero/__link-item/hero__link-item.css');
+@import url('../blocks/hero/__content/hero__content.css');
+@import url('../blocks/hero/__avatar/hero__avatar.css');
+@import url('../blocks/hero/__text/hero__text.css');
+@import url('../blocks/hero/__subtitle/hero__subtitle.css');
+@import url('../blocks/hero/__title/hero__title.css');
+@import url('../blocks/hero/__description/hero__description.css');
+@import url('../blocks/hero/__button/hero__button.css');

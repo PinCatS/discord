@@ -1,0 +1,7 @@
+.hero__link-item {
+  margin: 0 13px 0 0;
+}
+
+.hero__link-item:last-of-type {
+  margin: 0;
+}

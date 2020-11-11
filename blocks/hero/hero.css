@@ -1,0 +1,23 @@
+.hero {
+  padding: 35px 24px 0 24px;
+  color: #fff;
+  background-color: #1B2944;
+}
+
+@media screen and (min-width: 768px) {
+  .hero {
+    padding: 35px 56px 0 56px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .hero {
+    padding: 35px 0 0 0;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .hero {
+    padding: 41px 0 0 0;
+  }
+}
