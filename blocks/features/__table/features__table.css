@@ -1,0 +1,22 @@
+.features__table {
+  padding: 0;
+  margin: 0 auto;
+  max-width: 720px;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(265px, 304px));
+  row-gap: 30px;
+  column-gap: 16px;
+}
+
+@media screen and (min-width: 1024px) {
+  .features__table {
+    row-gap: 64px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .features__table {
+    max-width: 944px;
+  }
+}

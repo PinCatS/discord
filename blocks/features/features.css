@@ -1,0 +1,18 @@
+.features {
+  padding: 63px 24px 59px 24px;
+  background-color: #141F35;
+  color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+  .features {
+    padding-left: 56px;
+    padding-right: 56px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .features {
+    padding: 64px 0 92 0;
+  }
+}

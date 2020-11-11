@@ -1,0 +1,29 @@
+.features__title {
+  margin: 0 auto 59px auto;
+  max-width: 720px;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: calc(22 / 19);
+}
+
+@media screen and (min-width: 768px) {
+  .features__title {
+    font-size: 26px;
+    line-height: calc(28/ 26);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .features__title {
+    margin-bottom: 80px;
+    font-size: 36px;
+    line-height: calc(42 / 36);
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .features__title {
+    max-width: 944px;
+  }
+}
+
